@@ -12,14 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"quell", sentence:""))
-        list.append(Word(word:"barrow", sentence:""))
-        list.append(Word(word:"dearth", sentence:""))
-        list.append(Word(word:"bower", sentence:""))
-        list.append(Word(word:"paddock", sentence:""))
-        list.append(Word(word:"blithe", sentence:""))
-        list.append(Word(word:"keen", sentence:""))
-        list.append(Word(word:"mongrel", sentence:""))
-        list.append(Word(word:"reckless", sentence:""))
+        list.append(Word(word:"alderman", sentence:""))
+        list.append(Word(word:"whirlpool", sentence:""))
+        list.append(Word(word:"belay", sentence:""))
+        list.append(Word(word:"cleanser", sentence:""))
+        list.append(Word(word:"dreary", sentence:""))
+        list.append(Word(word:"bequeath", sentence:""))
+        list.append(Word(word:"sallow", sentence:""))
+        list.append(Word(word:"dross", sentence:""))
+        list.append(Word(word:"lithe", sentence:""))
+        list.append(Word(word:"gristle", sentence:""))
     }
 }
