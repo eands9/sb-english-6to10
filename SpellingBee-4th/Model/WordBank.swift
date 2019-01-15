@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"linseed", sentence:""))
-        list.append(Word(word:"nether", sentence:""))
-        list.append(Word(word:"fathom", sentence:""))
-        list.append(Word(word:"nightingale", sentence:""))
-        list.append(Word(word:"farthing", sentence:""))
-        list.append(Word(word:"threshold", sentence:""))
-        list.append(Word(word:"kith", sentence:""))
-        list.append(Word(word:"wanton", sentence:""))
-        list.append(Word(word:"loam", sentence:""))
-        list.append(Word(word:"yield", sentence:""))
+        list.append(Word(word:"mattock", sentence:""))
+        list.append(Word(word:"hawthorn", sentence:""))
+        list.append(Word(word:"tithe", sentence:""))
+        list.append(Word(word:"behoove", sentence:""))
+        list.append(Word(word:"forlorn", sentence:""))
+        list.append(Word(word:"quiver", sentence:""))
+        list.append(Word(word:"hustings", sentence:""))
+        list.append(Word(word:"aspen", sentence:""))
+        list.append(Word(word:"mermaid", sentence:""))
+        list.append(Word(word:"anvil", sentence:""))
     }
 }
