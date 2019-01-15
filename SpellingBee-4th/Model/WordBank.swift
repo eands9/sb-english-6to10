@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"stringy", sentence:""))
-        list.append(Word(word:"dairy", sentence:""))
-        list.append(Word(word:"workmanship", sentence:""))
-        list.append(Word(word:"newfangled", sentence:""))
-        list.append(Word(word:"timely", sentence:""))
-        list.append(Word(word:"dogged", sentence:""))
-        list.append(Word(word:"mootable", sentence:""))
-        list.append(Word(word:"womanly", sentence:""))
-        list.append(Word(word:"manhandle", sentence:""))
-        list.append(Word(word:"folksiness", sentence:""))
+        list.append(Word(word:"worrisome", sentence:""))
+        list.append(Word(word:"roughhewn", sentence:""))
+        list.append(Word(word:"knavery", sentence:""))
+        list.append(Word(word:"hurdle", sentence:""))
+        list.append(Word(word:"kipper", sentence:""))
+        list.append(Word(word:"hundredth", sentence:""))
+        list.append(Word(word:"icicle", sentence:""))
+        list.append(Word(word:"pinafore", sentence:""))
+        list.append(Word(word:"yieldable", sentence:""))
+        list.append(Word(word:"hue", sentence:""))
     }
 }
