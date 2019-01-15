@@ -12,15 +12,12 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"worrisome", sentence:""))
-        list.append(Word(word:"roughhewn", sentence:""))
-        list.append(Word(word:"knavery", sentence:""))
-        list.append(Word(word:"hurdle", sentence:""))
-        list.append(Word(word:"kipper", sentence:""))
-        list.append(Word(word:"hundredth", sentence:""))
-        list.append(Word(word:"icicle", sentence:""))
-        list.append(Word(word:"pinafore", sentence:""))
-        list.append(Word(word:"yieldable", sentence:""))
-        list.append(Word(word:"hue", sentence:""))
+        list.append(Word(word:"heifer", sentence:""))
+        list.append(Word(word:"mistletoe", sentence:""))
+        list.append(Word(word:"salve", sentence:""))
+        list.append(Word(word:"kirtle", sentence:""))
+        list.append(Word(word:"wiccan", sentence:""))
+        list.append(Word(word:"shrieval", sentence:""))
+        list.append(Word(word:"chary", sentence:""))
     }
 }
